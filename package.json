@@ -1,6 +1,6 @@
 {
   "name": "npm-format-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper para realizar formatos de fecha en string dd/mm/yyyy hh:ii:ss",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "date"
   ],
   "author": "power5000",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpower5000/npm-format-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gpower5000/npm-format-date/issues"
+  },
+  "homepage": "https://github.com/gpower5000/npm-format-date#readme"
 }
