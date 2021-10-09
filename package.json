@@ -1,0 +1,14 @@
+{
+  "name": "npm-format-date",
+  "version": "1.0.0",
+  "description": "Helper para realizar formatos de fecha en string dd/mm/yyyy hh:ii:ss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "power5000",
+  "license": "ISC"
+}
